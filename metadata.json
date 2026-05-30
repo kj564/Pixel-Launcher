@@ -1,0 +1,6 @@
+{
+  "name": "Pixel Launcher",
+  "description": "Launcher premium murni bergaya Google Pixel dengan optimasi tinggi untuk resolusi 480p.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

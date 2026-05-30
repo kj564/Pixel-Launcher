@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Pixel Launcher</string>
+    <string name="at_a_glance_weather">Cerah • 28°C</string>
+    <string name="search_apps">Cari aplikasi...</string>
+    <string name="settings_title">Wallpaper &amp; Gaya (Pixel)</string>
+    <string name="theme_color_title">Warna Aksen Dinamis</string>
+    <string name="icon_style_title">Gaya Ikon</string>
+    <string name="grid_size_title">Ukuran Kisi Utama</string>
+    <string name="resolution_optimization">Optimasi Layar (480p)</string>
+    <string name="wallpaper_choice_title">Wallpaper Pixel HD</string>
+</resources>
